@@ -1,5 +1,6 @@
 #! usr/bin/python
 # -*- coding: ISO-8859-1 -*-
+# Spritrl - REALINI Christophe 09/10/2020 - FR
 
 import sys
 import random
